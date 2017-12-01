@@ -1,0 +1,40 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: url("https://pre00.deviantart.net/1f48/th/pre/f/2016/258/1/e/rick_and_morty_background_template_by_jurokoo-dahsef5.png");
+}
+
+h1 {
+	margin: 25px 50px 100px;
+    text-align: center;
+    background-color: #00bcd4;
+  
+}
+h2 {
+	text-align: center;
+	font-family: 'Allan';
+	font-size: 42px;
+}
+h3 {
+	margin: 25px 500px 100px 50px;
+	font-family: "futura";
+	
+
+}
+
+h4 {
+	margin: 400px 50px 100px;
+	text-align: center;
+	font-size: large;
+
+
+}
+img {
+	margin: 0px 50px;
+	float: right;
+	width:300;
+	height:300;
+}
